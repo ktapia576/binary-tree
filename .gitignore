@@ -1,0 +1,36 @@
+# IntelliJ IDEA
+# User-specific stuff:
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+
+# Sensitive or high-churn files:
+.idea/**/path.macros.xml
+.idea/**/jars/*
+.idea/**/libraries/*
+.idea/**/shelf/
+
+# AWS User-specific
+.idea/**/aws.xml
+
+# Generated files
+.idea/**/gradle.xml
+.idea/**/libraries
+.idea/**/modules.xml
+.idea/**/runner.layout.xml
+.idea/**/gradle.xml
+.idea/**/dependency-scope-mappings.xml
+
+# Gradle
+.gradle/
+build/
+
+# Other
+target/
+out/
