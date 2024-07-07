@@ -18,6 +18,9 @@ public class BinaryTree {
           Node root = new Node(10);
 
           addRecursive(root, 9);
+          addRecursive(root, 8);
+          addRecursive(root, 12);
+          addRecursive(root, 11);
           inOrderPrint(root);
 
           //spacer for inOrder print
